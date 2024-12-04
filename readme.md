@@ -4,7 +4,7 @@ collected on 2024.12.4
 
 https://www.bloomberg.com/graphics/2023-opinion-russia-ukraine-global-energy-transformation/
 
-![Screenshot 2024-12-04 at 9.51.20 AM](img/Screenshot 2024-12-04 at 9.51.20 AM.png)
+![global-energy](img/global-energy.png)
 
 ### 2023: The Year in Graphics, Data, Maps, and Visual Stories
 
